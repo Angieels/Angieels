@@ -4,43 +4,29 @@
 
 <br/>
 
-<i>"If we hadn't met by chance,<br/>I wouldn't have found my destiny."</i>
+<i>"If we hadn't met by chance, I wouldn't have found my destiny."</i>
 
-<br/>
+<br/><br/>
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3B0A45,100:E84393&height=180&section=header&text=Nicole%20Beltrán&fontSize=42&fontColor=FFD6EC&fontAlignY=40&desc=Software%20Development%20Technician&descAlignY=58&descSize=16&descColor=FF85C0&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br/>
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
 
-### 🩷 about me
+<h3 align="center">Sobre mí</h3>
 
-<img align="right" width="280" src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" style="border-radius: 12px; border: 2px solid #E84393;" />
+<img align="right" width="260" src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" style="border-radius: 14px; border: 2px solid #E84393; margin-left: 20px;" />
 
-```ts
-const nicole = {
-  role: "Software Development Technician",
-  currentlyBuilding: "BeatBoard 🎶",
-  stack: ["JavaScript", "TypeScript", "Python", "SQL"],
-  loves: ["dark + pink aesthetics", "music", "clean code"],
-};
-```
+Soy técnica en desarrollo de software, y para mí programar tiene el mismo ritmo que la música: fluye mejor cuando cada pieza encaja en su lugar. Actualmente estoy trabajando en **BeatBoard**, una plataforma para gestionar artistas y eventos musicales, y en general disfruto los proyectos full-stack y todo lo que tenga que ver con datos.
 
-For me, coding is a bit like music — it just flows better when there's rhythm
-to it. Right now I'm enjoying full-stack projects and apps that work with data,
-taking things one step at a time and trying to make stuff that feels as good
-as it looks. ✨
+Me interesa construir cosas que funcionen bien y también se vean bien — cuidando tanto la lógica como la estética. Poco a poco, con calma, pero con intención en cada detalle.
 
 <br clear="right"/>
 
-<div align="center">
-
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
 
-</div>
-
-### 🎀 skills
+<h3 align="center">Stack & herramientas</h3>
 
 <div align="center">
 
@@ -49,32 +35,22 @@ as it looks. ✨
 ![React](https://img.shields.io/badge/React-3B0A45?style=for-the-badge&logo=react&logoColor=FF85C0)
 ![Python](https://img.shields.io/badge/Python-2D0A2E?style=for-the-badge&logo=python&logoColor=FFD6EC)
 ![CSS3](https://img.shields.io/badge/CSS3-FF85C0?style=for-the-badge&logo=css3&logoColor=2D0A2E)
-![Figma](https://img.shields.io/badge/Figma-1A001F?style=for-the-badge&logo=figma&logoColor=E84393)
 ![SQL](https://img.shields.io/badge/SQL-E84393?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1A001F?style=for-the-badge&logo=figma&logoColor=E84393)
 
 </div>
-
-<div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
 
-</div>
-
-### 🎧 currently playing
+<h3 align="center">Reproduciendo ahora</h3>
 
 <div align="center">
-
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=jl913207xkyi79m80lms2k4v6&count=8" width="500"/>
-
 </div>
-
-<div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
 
-</div>
-
-### 📊 github stats
+<h3 align="center">Estadísticas</h3>
 
 <div align="center">
 
@@ -83,34 +59,18 @@ as it looks. ✨
 
 </div>
 
-<div align="center">
-
 ![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
 
-</div>
-
-### 🌷 let's connect
-
 <div align="center">
 
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1A001F?style=for-the-badge&logo=instagram&logoColor=E84393"/>
-</a>
-<a href="https://discord.com/users/TU_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-1A001F?style=for-the-badge&logo=discord&logoColor=FF85C0"/>
-</a>
 <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1A001F?style=for-the-badge&logo=linkedin&logoColor=FFD6EC"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E84393,50:3B0A45,100:0D0221&height=110&section=footer" width="100%"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E84393,50:3B0A45,100:0D0221&height=120&section=footer" width="100%"/>
-
-<sub>thanks for visiting 🩷</sub>
+<sub>gracias por visitar</sub>
 
 </div>
