@@ -1,52 +1,72 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:2B2B2B&height=140&section=header&text=%40nicole-beltran&fontSize=38&fontColor=E8E4D8&fontAlignY=55&fontFamily=UnifrakturMaguntia&animation=fadeIn"/>
-
-<sub>﹒ software · data · quiet obsessions ﹒</sub>
-
+<img src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif" width="100%"/>
 <br/>
-
-╰┈➤ *builds things with more patience than she has*
-
+<i>"If we hadn't met by chance,<br/>I wouldn't have found my destiny."</i>
 <br/>
-
-<img src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" width="220" style="border-radius: 6px; filter: grayscale(60%) sepia(20%); border: 1px solid #4a4a4a;"/>
-
-<br/><br/>
-
-`JavaScript` · `TypeScript` · `React` · `Python` · `SQL`
-
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+</div>
 <br/>
+### 🩷 about me
+<img align="right" width="280" src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" style="border-radius: 12px; border: 2px solid 
+#E84393;" />
+ts
+const nicole = {
+  role: "Software Development Technician",
+  currentlyBuilding: "BeatBoard 🎶",
+  stack: ["JavaScript", "TypeScript", "Python", "SQL"],
+  loves: ["dark + pink aesthetics", "music", "clean code"],
+};
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
-
-**currently building** → BeatBoard
-
-**listening to**
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=jl913207xkyi79m80lms2k4v6&count=6" width="420"/>
-
-<br/><br/>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=nord&bg_color=0D0D0D&title_color=E8E4D8&icon_color=8C8C8C&text_color=B8B4A8&border_color=2B2B2B&hide_border=false" width="46%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=nord&background=0D0D0D&stroke=2B2B2B&ring=8C8C8C&fire=E8E4D8&currStreakLabel=B8B4A8&border=2B2B2B" width="46%"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=B8B4A8"/>
+For me, coding is a bit like music — it just flows better when there's rhythm
+to it. Right now I'm enjoying full-stack projects and apps that work with data,
+taking things one step at a time and trying to make stuff that feels as good
+as it looks. ✨
+<br clear="right"/>
+<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+</div>
+### 🎀 skills
+<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6EC?style=for-the-badge&logo=javascript&logoColor=2D0A2E)
+![TypeScript](https://img.shields.io/badge/TypeScript-E84393?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3B0A45?style=for-the-badge&logo=react&logoColor=FF85C0)
+![Python](https://img.shields.io/badge/Python-2D0A2E?style=for-the-badge&logo=python&logoColor=FFD6EC)
+![CSS3](https://img.shields.io/badge/CSS3-FF85C0?style=for-the-badge&logo=css3&logoColor=2D0A2E)
+![Figma](https://img.shields.io/badge/Figma-1A001F?style=for-the-badge&logo=figma&logoColor=E84393)
+![SQL](https://img.shields.io/badge/SQL-E84393?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+</div>
+### 🎧 currently playing
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=jl913207xkyi79m80lms2k4v6&count=8" width="500"/>
+</div>
+<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+</div>
+### 📊 github stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&bg_color=1A001F&title_color=FF85C0&icon_color=E84393&text_color=FFD6EC&border_color=E84393&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&background=1A001F&stroke=E84393&ring=FF85C0&fire=E84393&currStreakLabel=FFD6EC&border=E84393" width="48%"/>
+</div>
+<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+</div>
+### 🌷 let's connect
+<div align="center">
+<a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1A001F?style=for-the-badge&logo=instagram&logoColor=E84393"/>
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:2B2B2B,100:0D0D0D&height=100&section=footer"/>
-
-<sub>﹒ thank you for stopping by ﹒</sub>
-
+<a href="https://discord.com/users/TU_ID" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-1A001F?style=for-the-badge&logo=discord&logoColor=FF85C0"/>
+</a>
+<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1A001F?style=for-the-badge&logo=linkedin&logoColor=FFD6EC"/>
+</a>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E84393,50:3B0A45,100:0D0221&height=120&section=footer" width="100%"/>
+<sub>thanks for visiting 🩷</sub>
 </div>
