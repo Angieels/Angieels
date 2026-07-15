@@ -1,76 +1,52 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:2B2B2B&height=140&section=header&text=%40nicole-beltran&fontSize=38&fontColor=E8E4D8&fontAlignY=55&fontFamily=UnifrakturMaguntia&animation=fadeIn"/>
+
+<sub>﹒ software · data · quiet obsessions ﹒</sub>
 
 <br/>
 
-<i>"If we hadn't met by chance, I wouldn't have found my destiny."</i>
+╰┈➤ *builds things with more patience than she has*
+
+<br/>
+
+<img src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" width="220" style="border-radius: 6px; filter: grayscale(60%) sepia(20%); border: 1px solid #4a4a4a;"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3B0A45,100:E84393&height=180&section=header&text=Nicole%20Beltrán&fontSize=42&fontColor=FFD6EC&fontAlignY=40&desc=Software%20Development%20Technician&descAlignY=58&descSize=16&descColor=FF85C0&animation=fadeIn" width="100%"/>
+`JavaScript` · `TypeScript` · `React` · `Python` · `SQL`
 
-</div>
+<br/>
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">Sobre mí</h3>
+<br/>
 
-<img align="right" width="260" src="https://i.pinimg.com/736x/ba/c9/da/bac9da3080639ed74cac64a25cc58df1.jpg" style="border-radius: 14px; border: 2px solid #E84393; margin-left: 20px;" />
+**currently building** → BeatBoard
 
-Soy técnica en desarrollo de software, y para mí programar tiene el mismo ritmo que la música: fluye mejor cuando cada pieza encaja en su lugar. Actualmente estoy trabajando en **BeatBoard**, una plataforma para gestionar artistas y eventos musicales, y en general disfruto los proyectos full-stack y todo lo que tenga que ver con datos.
+**listening to**
 
-Me interesa construir cosas que funcionen bien y también se vean bien — cuidando tanto la lógica como la estética. Poco a poco, con calma, pero con intención en cada detalle.
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=jl913207xkyi79m80lms2k4v6&count=6" width="420"/>
 
-<br clear="right"/>
+<br/><br/>
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">Stack & herramientas</h3>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=nord&bg_color=0D0D0D&title_color=E8E4D8&icon_color=8C8C8C&text_color=B8B4A8&border_color=2B2B2B&hide_border=false" width="46%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=nord&background=0D0D0D&stroke=2B2B2B&ring=8C8C8C&fire=E8E4D8&currStreakLabel=B8B4A8&border=2B2B2B" width="46%"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD6EC?style=for-the-badge&logo=javascript&logoColor=2D0A2E)
-![TypeScript](https://img.shields.io/badge/TypeScript-E84393?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-3B0A45?style=for-the-badge&logo=react&logoColor=FF85C0)
-![Python](https://img.shields.io/badge/Python-2D0A2E?style=for-the-badge&logo=python&logoColor=FFD6EC)
-![CSS3](https://img.shields.io/badge/CSS3-FF85C0?style=for-the-badge&logo=css3&logoColor=2D0A2E)
-![SQL](https://img.shields.io/badge/SQL-E84393?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1A001F?style=for-the-badge&logo=figma&logoColor=E84393)
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
-
-<h3 align="center">Reproduciendo ahora</h3>
-
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=jl913207xkyi79m80lms2k4v6&count=8" width="500"/>
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
-
-<h3 align="center">Estadísticas</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&bg_color=1A001F&title_color=FF85C0&icon_color=E84393&text_color=FFD6EC&border_color=E84393&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&background=1A001F&stroke=E84393&ring=FF85C0&fire=E84393&currStreakLabel=FFD6EC&border=E84393" width="48%"/>
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=20)
-
-<div align="center">
+<br/><br/>
 
 <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1A001F?style=for-the-badge&logo=linkedin&logoColor=FFD6EC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=B8B4A8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E84393,50:3B0A45,100:0D0221&height=110&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:2B2B2B,100:0D0D0D&height=100&section=footer"/>
 
-<sub>gracias por visitar</sub>
+<sub>﹒ thank you for stopping by ﹒</sub>
 
 </div>
